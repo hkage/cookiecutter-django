@@ -4,7 +4,12 @@ This is a cookiecutter template for Django projects, inspired by https://github.
 
 ## Features
 
-...
+* Uses Django 1.10
+* [Tox](https://tox.readthedocs.io/en/latest/) configuration
+* [Pytest](http://pytest.org/latest/) for unit testing
+* [Sphinx](http://www.sphinx-doc.org/en/stable/) documentation
+* (Optional) [Bumpversion](https://github.com/peritus/bumpversion) for updating version information
+* (Optional) Travis-CI configuration
 
 ## Usage
 
